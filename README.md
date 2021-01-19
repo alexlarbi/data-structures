@@ -1,2 +1,3 @@
-# data-structures
-Implemented data structures in Java for review
+Data Structures - Java
+
+This repository contains data structures implemented in Java.
