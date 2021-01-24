@@ -8,4 +8,6 @@ This repository contains data structures implemented in Java.
 
 [Singly Linked List](../master/SinglyLinkedList.java)
 
+[Doubly Linked List](../master/DoublyLinkedList.java)
+
 [Stack Array](../master/StackArray.java)
