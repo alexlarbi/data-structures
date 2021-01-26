@@ -11,3 +11,5 @@ This repository contains data structures implemented in Java.
 [Doubly Linked List](../master/DoublyLinkedList.java)
 
 [Stack Array](../master/StackArray.java)
+
+[Heap](../master/Heap.java)
