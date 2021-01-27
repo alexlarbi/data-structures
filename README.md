@@ -13,3 +13,5 @@ This repository contains data structures implemented in Java.
 [Stack Array](../master/StackArray.java)
 
 [Heap](../master/Heap.java)
+
+[HeapItem](../master/HeapItem.java)
