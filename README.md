@@ -17,3 +17,5 @@ This repository contains data structures implemented in Java.
 [HeapItem](../master/HeapItem.java)
 
 [CircleLinkedList](../master/CircleLinkedList.java)
+
+[DynamicArray](../master/DynamicArray.java)
