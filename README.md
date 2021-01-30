@@ -21,3 +21,5 @@ This repository contains data structures implemented in Java.
 [DynamicArray](../master/DynamicArray.java)
 
 [NodeStack](../master/NodeStack.java)
+
+[StackArrayList](../master/StackArrayList.java)
