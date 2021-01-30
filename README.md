@@ -19,3 +19,5 @@ This repository contains data structures implemented in Java.
 [CircleLinkedList](../master/CircleLinkedList.java)
 
 [DynamicArray](../master/DynamicArray.java)
+
+[NodeStack](../master/NodeStack.java)
