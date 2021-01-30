@@ -24,5 +24,14 @@ public class StackArrayList {
     return stack.isEmpty();
   }
 
+  public int peek() {
+    if (isEmpty()) {
+      throw new EmptyStackException();
+    }
+    return stack.get(stack.size() - 1);
+  }
 
+  public int size() {
+    return stack.size();
+  }
 }
