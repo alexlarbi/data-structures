@@ -23,3 +23,5 @@ This repository contains data structures implemented in Java.
 [NodeStack](../master/NodeStack.java)
 
 [StackArrayList](../master/StackArrayList.java)
+
+[BinaryTree](../master/BinaryTree.java)
