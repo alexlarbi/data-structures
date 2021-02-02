@@ -154,5 +154,19 @@ public class BinaryTree {
     }
   }
 
+  public void preOrder(Node localRoot) {
+    if (localRoot != null) {
+      System.out.print(localRoot.data + " ");
+      preOrder(localRoot.left);
+      preOrder(localRoot.right);
+    }
+  }
 
+  public void postOrder(Node localRoot) {
+    if (localRoot != null) {
+      postOrder(localRoot.left);
+      postOrder(localRoot.right);
+      System.out.print(localRoot.data + " ");
+    }
+  }
 }
