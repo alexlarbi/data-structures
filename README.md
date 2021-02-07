@@ -29,3 +29,5 @@ This repository contains data structures implemented in Java.
 [GenericArrayList](../master/GenericArrayList.java)
 
 [Cycles](../master/Cycles.java)
+
+[Tree Traversal](../master/TreeTraversal.java)
