@@ -31,3 +31,5 @@ This repository contains data structures implemented in Java.
 [Cycles](../master/Cycles.java)
 
 [Tree Traversal](../master/TreeTraversal.java)
+
+[Stack of LinkedList](../master/StackOfLinkedList.java)
