@@ -37,3 +37,5 @@ This repository contains data structures implemented in Java.
 [Merge K Sorted LinkedList](../master/MergeKSortedLL.java)
 
 [Max Heap](../master/MaxHeap.java)
+
+[Linked Queue](../master/LinkedQueue.java)
