@@ -39,3 +39,5 @@ This repository contains data structures implemented in Java.
 [Max Heap](../master/MaxHeap.java)
 
 [Linked Queue](../master/LinkedQueue.java)
+
+[Hash Map](../master/HashMap.java)
